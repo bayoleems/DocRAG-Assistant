@@ -1,0 +1,8 @@
+faiss-cpu
+langchain
+docx2txt
+langchain_community
+langchain-openai
+typing_extensions>4.6.0
+pydantic==1.10.8
+pypdf
