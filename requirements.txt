@@ -6,3 +6,4 @@ langchain-openai
 typing_extensions>4.6.0
 pydantic==1.10.8
 pypdf
+python-dotenv
